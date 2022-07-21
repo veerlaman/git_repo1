@@ -1,4 +1,10 @@
 Hi,
 This is my manohar
+<<<<<<< Updated upstream
 -------------------
 this is after stash
+=======
+--------------------
+This i want stash
+
+>>>>>>> Stashed changes
