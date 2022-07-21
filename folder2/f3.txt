@@ -1,0 +1,6 @@
+aba 110	A
+abb 111	B
+abc 112	c
+abd 113 d
+abe 114 f
+abf 115 g----------------
